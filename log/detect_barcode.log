@@ -1,0 +1,64 @@
+2019-08-14 23:16:40,791 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:18:14,502 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:19:02,774 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:19:35,105 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:20:51,951 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:20:57,658 - run - INFO - Barcode detected. Type: I25. Data: b'020511'
+2019-08-14 23:21:08,913 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:22:24,095 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:22:29,023 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:23:02,804 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:23:31,411 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:23:35,875 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:23:49,029 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:23:56,253 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:23:58,887 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:24:38,224 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:24:49,120 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:24:56,363 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:07,605 - run - INFO - Barcode detected. Type: EAN13. Data: b'4500155128414'
+2019-08-14 23:25:08,084 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:08,346 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:08,614 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:08,824 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:09,269 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:09,383 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:09,587 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:10,505 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:14,717 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:15,155 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:15,591 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:16,068 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:16,260 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:16,345 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:16,460 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:16,524 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:16,634 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:25:52,995 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:28:49,248 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:28:55,987 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:28:56,071 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:28:56,225 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:28:56,413 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:28:56,507 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:28:56,604 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:28:58,836 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:28:59,006 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:29:02,212 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:30:46,785 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:31:01,765 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:31:53,910 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:32:14,126 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:32:15,136 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:32:15,194 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:32:15,617 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:38:59,356 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:39:26,597 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:39:26,866 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:39:26,930 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:39:27,178 - run - INFO - Barcode detected. Type: EAN13. Data: b'7500435128414'
+2019-08-14 23:39:27,347 - run - INFO - Barcode detected. Type: EAN13. Data: b'8500441128414'
+2019-08-14 23:42:12,285 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:42:39,123 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:42:59,304 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-14 23:43:35,665 - __init__ - INFO - BarcodeDetector instantiated.
