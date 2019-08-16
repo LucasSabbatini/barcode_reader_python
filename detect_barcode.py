@@ -15,6 +15,7 @@ class BarcodeDetector():
         self._camera = 0
         self._output_json_path = output_json_path
         self._perc_to_process = perc_to_process
+        self._sleep_detection = 5.0
 
         self.log = log
 
@@ -41,18 +42,41 @@ class BarcodeDetector():
 
     
     def insert_json(self, event):
+        """
 
+        """
         with open(self._output_json_path, 'w', newline='', encoding='utf8') as fp:
             json.dump(event, fp, ensure_ascii=False, indent=2)
         return True    
 
 
     def push_data(self, data_list):
+        """
 
+        """
+        rets = []
         for data in data_list:
             event = copy.copy(data)
             event["event_time"] = datetime.datetime.now()
-            self.push(event)
+            ret.append(self.push(event))
+        return rets
+
+    
+    def query(self, data):
+        """
+        Implement
+
+        """
+
+    
+    def query_database(self, det_data):
+        """
+
+        """
+        answers = []
+        for det in det_data:
+            answers.append(self.query(det['data']))
+        return ansers
 
 
     def preprocess_frame(self, frame):
@@ -77,18 +101,14 @@ class BarcodeDetector():
         """
         decoded_objects = pyzbar.decode(frame)
         decoded_list = []
-        if len(decoded_objects) > 0:
-                
-            for obj in decoded_objects:
-                decoded_dict = {"type":obj.type, "data": obj.data, "polygon": obj.polygon}
-                decoded_list.append(decoded_dict)
-
-            return True, decoded_list
-        else:
-            return False, None
+        for obj in decoded_objects:
+            decoded_dict = {"type":obj.type, "data": obj.data, "polygon": obj.polygon, "rectangle":obj.rect}
+            decoded_list.append(decoded_dict)
+            
+        return decoded_list
 
 
-    def draw_detections(self, frame, detections):
+    def draw_detections_bbox(self, frame, detections):
         """
         Draw codes on display
 
@@ -119,13 +139,41 @@ class BarcodeDetector():
         
         return frame
 
+    
+    def draw_detections_info(self, canvas, det_data):
+        """
+        Draw deteciton info on the frame.
+        """
+        font                   = cv2.FONT_HERSHEY_SIMPLEX
+        fontScale              = 1
+        fontColor              = (127,255,0)
+        lineType               = 2
+        color                  = (255,0,0)
+        for det in det_data:
+            # bottomLeftCorvner = (det['polygon'][0][0], det['polygon'][0][1])
+            cv2.putText(canvas,
+                        str(det['data']),
+                        (det['polygon'][0][0]-100, det['polygon'][0][1]),
+                        font,
+                        fontScale,
+                        color,
+                        lineType)
+
+        return canvas
+ 
+
+    def load_camera(self):
+        self._video_cap = cv2.VideoCapture(0)
+        self._video_info = {}
+        self._video_info['frame_height'] = self._video_cap.get(cv2.CAP_PROP_FRAME_HEIGHT)
+        self._video_info['frame_width'] = self._video_cap.get(cv2.CAP_PROP_FRAME_WIDTH)
+
 
     def run(self):
         """t
         Run main loop. The concept is to continuously run the camera, select random frame to process (10%)
         """
-
-        self._video_cap = cv2.VideoCapture(0)
+        self.load_camera()
 
         # FPS counter
         start_time = time.time()
@@ -133,20 +181,36 @@ class BarcodeDetector():
         counter = 0
         fps = 0
 
+        sleep = [False, time.time()]
+
         ret, frame = self._video_cap.read()
+        canvas = np.zeros_like(frame)
+
+        log.info("Running main loop.")
         while True:
 
             if random.random() < self._perc_to_process:
                 # frame = self.preprocess_frame(frame)
-                flag, det_data = self.detect_and_decode(frame)
+                if not sleep[0]:
+                    det_data = self.detect_and_decode(frame)
+                    
+                    if len(det_data) > 0:
+                        log.info("Barcode detected. Type: {}. Data: {}".format(det_data[0]['type'], det_data[0]['data']))
+                        frame = self.draw_detections_bbox(frame, det_data)
+                        canvas = self.draw_detections_info(canvas, det_data)
+                        sleep = [True, time.time()]
+
+                        # query_returns = self.push_data(det_data)
+                        # frame, canvas = self.draw_anwers(frame, canvas, query_returns)
+
+                if (time.time() - sleep[1]) > self._sleep_detection:
+                    sleep[0] = False
+                    canvas = np.zeros_like(frame)
                 
-                if flag:
-                    log.info("Barcode detected. Type: {}. Data: {}".format(det_data[0]['type'], det_data[0]['data']))
-                    frame = self.draw_detections(frame, det_data)
-                    # self.push_data(det_data)
             
             # show frame
-            cv2.imshow("Barcode Detector", frame)
+            img = cv2.add(frame, canvas)
+            cv2.imshow("Barcode Detector", img)
 
             # Cap next frame
             ret, frame = self._video_cap.read()

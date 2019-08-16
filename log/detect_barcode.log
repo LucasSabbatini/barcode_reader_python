@@ -62,3 +62,350 @@
 2019-08-14 23:42:39,123 - __init__ - INFO - BarcodeDetector instantiated.
 2019-08-14 23:42:59,304 - __init__ - INFO - BarcodeDetector instantiated.
 2019-08-14 23:43:35,665 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-15 08:33:17,400 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-15 08:33:22,785 - run - INFO - Barcode detected. Type: EAN13. Data: b'7622210936707'
+2019-08-15 08:33:23,147 - run - INFO - Barcode detected. Type: EAN13. Data: b'7622210936707'
+2019-08-15 08:33:23,275 - run - INFO - Barcode detected. Type: EAN13. Data: b'7622210936707'
+2019-08-15 08:33:38,248 - run - INFO - Barcode detected. Type: EAN13. Data: b'7622210936707'
+2019-08-15 08:33:38,922 - run - INFO - Barcode detected. Type: EAN13. Data: b'7622210936707'
+2019-08-15 08:33:38,955 - run - INFO - Barcode detected. Type: EAN13. Data: b'7622210936707'
+2019-08-15 08:33:39,113 - run - INFO - Barcode detected. Type: EAN13. Data: b'7622210936707'
+2019-08-15 08:33:39,177 - run - INFO - Barcode detected. Type: EAN13. Data: b'7622210936707'
+2019-08-15 08:33:39,272 - run - INFO - Barcode detected. Type: EAN13. Data: b'7622210936707'
+2019-08-15 08:35:12,983 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-15 08:35:22,488 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:22,807 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:22,857 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:22,888 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:23,016 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:23,046 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:26,087 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:26,886 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:26,919 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:26,951 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:26,984 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,016 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,049 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,079 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,111 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,144 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,176 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,208 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,256 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,287 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,321 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,351 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,385 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,416 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,447 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,481 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,511 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,544 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,577 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,608 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,655 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,687 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,720 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,783 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,816 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,849 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,879 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,911 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,944 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:27,975 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:28,007 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:28,055 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:28,087 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:28,119 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:35:28,151 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@Kw0Oik60sqvjqvXxn/fQnttJhJQES126OaCbY50iZzAYSpeYKm57s2+L,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:33,326 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-15 08:54:39,029 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@4Lem0Efv0iTl9iPIIieBR3n9PE+Vx0lxi6YGTdfVnJ6K6xU33Y1bthtn,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:39,086 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@4Lem0Efv0iTl9iPIIieBR3n9PE+Vx0lxi6YGTdfVnJ6K6xU33Y1bthtn,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:39,140 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@4Lem0Efv0iTl9iPIIieBR3n9PE+Vx0lxi6YGTdfVnJ6K6xU33Y1bthtn,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:39,204 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@4Lem0Efv0iTl9iPIIieBR3n9PE+Vx0lxi6YGTdfVnJ6K6xU33Y1bthtn,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:39,389 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@4Lem0Efv0iTl9iPIIieBR3n9PE+Vx0lxi6YGTdfVnJ6K6xU33Y1bthtn,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:39,457 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@4Lem0Efv0iTl9iPIIieBR3n9PE+Vx0lxi6YGTdfVnJ6K6xU33Y1bthtn,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:39,604 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@4Lem0Efv0iTl9iPIIieBR3n9PE+Vx0lxi6YGTdfVnJ6K6xU33Y1bthtn,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:39,672 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@4Lem0Efv0iTl9iPIIieBR3n9PE+Vx0lxi6YGTdfVnJ6K6xU33Y1bthtn,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:39,741 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@4Lem0Efv0iTl9iPIIieBR3n9PE+Vx0lxi6YGTdfVnJ6K6xU33Y1bthtn,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:39,795 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@4Lem0Efv0iTl9iPIIieBR3n9PE+Vx0lxi6YGTdfVnJ6K6xU33Y1bthtn,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:39,862 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@4Lem0Efv0iTl9iPIIieBR3n9PE+Vx0lxi6YGTdfVnJ6K6xU33Y1bthtn,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:39,936 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@4Lem0Efv0iTl9iPIIieBR3n9PE+Vx0lxi6YGTdfVnJ6K6xU33Y1bthtn,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:48,393 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:48,466 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:49,420 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:49,490 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:49,566 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:49,635 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:49,706 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:49,774 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:49,824 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:49,894 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:49,967 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:50,037 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:50,109 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:50,161 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:50,230 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:50,301 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:50,352 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:50,407 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:50,464 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:50,528 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:54:50,593 - run - INFO - Barcode detected. Type: QRCODE. Data: b'1@ZWqgO5lBZ2W45tAbKJdnc8tJtdGNqVkP1PNwus2NqZwJQueCWCwhd4X0,c3VNiWUavc1bncfQBfEsNv5fCCcatLNrw63lndeYgV0=,1pU2XxZWKfMTj3O+Gb9RPA=='
+2019-08-15 08:56:30,913 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-15 08:56:39,069 - run - INFO - Barcode detected. Type: EAN13. Data: b'7898535787205'
+2019-08-15 08:56:39,133 - run - INFO - Barcode detected. Type: EAN13. Data: b'7898535787205'
+2019-08-15 08:56:39,556 - run - INFO - Barcode detected. Type: EAN13. Data: b'7292535787805'
+2019-08-15 08:56:39,689 - run - INFO - Barcode detected. Type: EAN13. Data: b'7898535787205'
+2019-08-15 08:56:41,609 - run - INFO - Barcode detected. Type: EAN13. Data: b'7898535787205'
+2019-08-15 08:56:41,701 - run - INFO - Barcode detected. Type: EAN13. Data: b'7898535787205'
+2019-08-15 08:56:41,794 - run - INFO - Barcode detected. Type: EAN13. Data: b'7898535787205'
+2019-08-15 08:56:41,839 - run - INFO - Barcode detected. Type: EAN13. Data: b'7898535787205'
+2019-08-15 08:56:41,904 - run - INFO - Barcode detected. Type: EAN13. Data: b'7898535787205'
+2019-08-16 09:17:26,122 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:17:32,957 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:38:33,296 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:38:34,804 - run - INFO - Running main loop.
+2019-08-16 09:44:42,764 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:44:44,320 - run - INFO - Running main loop.
+2019-08-16 09:45:00,569 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:45:01,984 - run - INFO - Running main loop.
+2019-08-16 09:45:25,115 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:45:26,481 - run - INFO - Running main loop.
+2019-08-16 09:46:23,915 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:46:25,412 - run - INFO - Running main loop.
+2019-08-16 09:47:00,704 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:47:02,049 - run - INFO - Running main loop.
+2019-08-16 09:47:15,602 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 09:47:40,245 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:47:41,654 - run - INFO - Running main loop.
+2019-08-16 09:47:50,775 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:47:52,122 - run - INFO - Running main loop.
+2019-08-16 09:48:02,170 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 09:54:23,530 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:54:25,013 - run - INFO - Running main loop.
+2019-08-16 09:56:56,922 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:56:58,387 - run - INFO - Running main loop.
+2019-08-16 09:57:01,937 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 09:57:18,416 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:57:19,780 - run - INFO - Running main loop.
+2019-08-16 09:57:23,170 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 09:57:57,818 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:57:59,182 - run - INFO - Running main loop.
+2019-08-16 09:58:01,164 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 09:58:36,749 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:58:38,251 - run - INFO - Running main loop.
+2019-08-16 09:58:38,971 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 09:58:47,503 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:58:48,877 - run - INFO - Running main loop.
+2019-08-16 09:58:50,061 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 09:59:15,768 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 09:59:17,109 - run - INFO - Running main loop.
+2019-08-16 09:59:18,503 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 09:59:24,409 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 09:59:29,489 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 09:59:34,563 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 09:59:39,648 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 10:07:43,108 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 10:08:18,607 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 10:08:37,820 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 10:08:39,201 - run - INFO - Running main loop.
+2019-08-16 10:08:50,607 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 10:08:52,022 - run - INFO - Running main loop.
+2019-08-16 10:08:53,517 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 10:09:09,103 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 10:09:10,550 - run - INFO - Running main loop.
+2019-08-16 10:09:12,748 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 10:09:37,568 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 10:09:38,943 - run - INFO - Running main loop.
+2019-08-16 10:09:39,565 - run - INFO - Barcode detected. Type: QRCODE. Data: b' '
+2019-08-16 10:10:11,168 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:24:55,247 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 10:24:56,781 - run - INFO - Running main loop.
+2019-08-16 10:24:59,737 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:25:06,668 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:25:55,351 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 10:25:56,856 - run - INFO - Running main loop.
+2019-08-16 10:25:58,940 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:25:59,180 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:25:59,243 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:25:59,276 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:25:59,483 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:25:59,549 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:25:59,612 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:25:59,644 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:25:59,709 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:25:59,820 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:25:59,856 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:01,276 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:01,308 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:01,421 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:01,710 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,109 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,189 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,285 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,347 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,380 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,444 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,477 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,509 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,611 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,637 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,748 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,813 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,845 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,877 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,939 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:02,988 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:03,015 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:03,052 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:03,084 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:03,117 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:03,149 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:03,677 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:03,709 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:04,190 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:04,221 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:04,252 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:04,284 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:04,317 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:04,445 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:04,748 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:04,877 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:26:06,510 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:18,149 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 10:27:19,651 - run - INFO - Running main loop.
+2019-08-16 10:27:20,898 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:20,932 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:22,308 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:22,435 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:22,499 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:22,530 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:22,581 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:23,269 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:23,571 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:24,340 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:24,373 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:24,403 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:24,468 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:25,012 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:25,333 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:25,476 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:26,740 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:47,086 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 10:27:48,472 - run - INFO - Running main loop.
+2019-08-16 10:27:50,551 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:50,727 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:50,759 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:50,999 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:51,527 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:51,798 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:52,023 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:52,056 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:52,087 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:52,120 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:52,295 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:52,328 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:52,360 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:52,391 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:52,455 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:52,664 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:52,759 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:52,824 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:52,887 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,094 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,127 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,224 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,286 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,319 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,350 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,432 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,494 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,592 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,624 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,655 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,687 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,750 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,800 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,832 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,863 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,895 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,928 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:53,959 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,023 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,056 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,151 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,230 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,264 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,359 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,391 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,422 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,455 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,487 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,519 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,550 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,599 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,632 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,663 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,696 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,726 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,791 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,822 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,856 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,887 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:54,950 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:55,000 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:55,031 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:55,063 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:55,127 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:55,159 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:55,224 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:55,255 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:55,287 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:55,321 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:55,351 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:55,398 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:55,432 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:55,863 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:27:56,919 - run - INFO - Barcode detected. Type: QRCODE. Data: b'https://qrstud.io/qrmnky'
+2019-08-16 10:41:26,255 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 10:41:27,764 - run - INFO - Running main loop.
+2019-08-16 10:57:52,886 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 10:57:54,373 - run - INFO - Running main loop.
+2019-08-16 10:58:19,118 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 10:58:20,475 - run - INFO - Running main loop.
+2019-08-16 10:58:49,163 - run - INFO - Barcode detected. Type: QRCODE. Data: b'http://en.m.wikipedia.org'
+2019-08-16 10:58:54,203 - run - INFO - Barcode detected. Type: QRCODE. Data: b'http://en.m.wikipedia.org'
+2019-08-16 10:58:59,537 - run - INFO - Barcode detected. Type: QRCODE. Data: b'http://en.m.wikipedia.org'
+2019-08-16 10:59:04,630 - run - INFO - Barcode detected. Type: QRCODE. Data: b'http://en.m.wikipedia.org'
+2019-08-16 10:59:30,698 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 10:59:36,331 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 10:59:41,626 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 10:59:47,260 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 11:00:27,642 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 11:00:29,132 - run - INFO - Running main loop.
+2019-08-16 11:00:35,611 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 11:00:38,298 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 11:00:39,653 - run - INFO - Running main loop.
+2019-08-16 11:00:40,710 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 11:00:58,614 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 11:00:59,980 - run - INFO - Running main loop.
+2019-08-16 11:01:03,771 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 11:01:10,860 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 11:01:16,940 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 11:01:22,396 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 11:09:14,515 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 11:09:16,027 - run - INFO - Running main loop.
+2019-08-16 11:09:22,347 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 11:09:47,578 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 11:09:48,957 - run - INFO - Running main loop.
+2019-08-16 11:09:53,527 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 11:09:56,525 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 11:09:57,882 - run - INFO - Running main loop.
+2019-08-16 11:09:57,901 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 11:10:13,931 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 11:10:19,008 - run - INFO - Barcode detected. Type: EAN13. Data: b'0036000291452'
+2019-08-16 11:11:05,206 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-16 11:11:06,700 - run - INFO - Running main loop.
+2019-08-16 11:11:35,390 - run - INFO - Barcode detected. Type: EAN13. Data: b'0725272730706'
+2019-08-16 11:11:49,689 - run - INFO - Barcode detected. Type: EAN13. Data: b'0064744000078'
