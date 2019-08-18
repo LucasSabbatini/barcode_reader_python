@@ -409,3 +409,40 @@
 2019-08-16 11:11:06,700 - run - INFO - Running main loop.
 2019-08-16 11:11:35,390 - run - INFO - Barcode detected. Type: EAN13. Data: b'0725272730706'
 2019-08-16 11:11:49,689 - run - INFO - Barcode detected. Type: EAN13. Data: b'0064744000078'
+2019-08-18 19:39:31,599 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-18 19:39:33,290 - run - INFO - Running main loop.
+2019-08-18 19:41:33,472 - run - INFO - Barcode detected. Type: EAN13. Data: b'9780060850524'
+2019-08-18 19:42:09,218 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-18 19:42:10,673 - run - INFO - Running main loop.
+2019-08-18 19:42:18,107 - run - INFO - Barcode detected. Type: EAN13. Data: b'9780060850524'
+2019-08-18 19:44:05,093 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-18 19:44:06,514 - run - INFO - Running main loop.
+2019-08-18 19:44:10,920 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-18 19:44:12,287 - run - INFO - Running main loop.
+2019-08-18 19:44:16,707 - run - INFO - Barcode detected. Type: EAN13. Data: b'9780060850524'
+2019-08-18 19:44:29,943 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-18 19:44:31,319 - run - INFO - Running main loop.
+2019-08-18 19:45:05,748 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-18 19:45:07,174 - run - INFO - Running main loop.
+2019-08-18 19:45:41,831 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-18 19:45:43,256 - run - INFO - Running main loop.
+2019-08-18 19:45:58,427 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-18 19:45:59,795 - run - INFO - Running main loop.
+2019-08-18 19:46:43,135 - run - INFO - Barcode detected. Type: QRCODE. Data: b'http://en.m.wikipedia.org'
+2019-08-18 19:47:20,428 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-18 19:47:21,861 - run - INFO - Running main loop.
+2019-08-18 19:47:33,387 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-18 19:47:34,774 - run - INFO - Running main loop.
+2019-08-18 19:47:34,907 - run - INFO - Barcode detected. Type: QRCODE. Data: b'http://en.m.wikipedia.org'
+2019-08-18 19:48:07,222 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-18 19:48:08,677 - run - INFO - Running main loop.
+2019-08-18 19:48:09,749 - run - INFO - Barcode detected. Type: QRCODE. Data: b'http://en.m.wikipedia.org'
+2019-08-18 19:49:26,909 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-18 19:49:28,492 - run - INFO - Running main loop.
+2019-08-18 19:49:29,179 - run - INFO - Barcode detected. Type: QRCODE. Data: b'http://en.m.wikipedia.org'
+2019-08-18 19:50:04,865 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-18 19:50:06,234 - run - INFO - Running main loop.
+2019-08-18 19:50:06,559 - run - INFO - Barcode detected. Type: QRCODE. Data: http://en.m.wikipedia.org
+2019-08-18 20:37:29,048 - __init__ - INFO - BarcodeDetector instantiated.
+2019-08-18 20:37:30,609 - run - INFO - Running main loop.
+2019-08-18 20:37:33,115 - run - INFO - Barcode detected. Type: QRCODE. Data: http://en.m.wikipedia.org

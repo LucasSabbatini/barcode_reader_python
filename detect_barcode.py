@@ -10,6 +10,9 @@ import copy
 import json
 import time
 
+from db_query import ClientHandler
+from pymongo import MongoClient
+
 class BarcodeDetector():
     def __init__(self, perc_to_process, mongo_url=None, output_json_path=None):
         self._camera = 0
@@ -18,6 +21,8 @@ class BarcodeDetector():
         self._sleep_detection = 5.0
 
         self.log = log
+
+        self._db_handler = ClientHandler()
 
         if mongo_url != None:
             self._mongo_url = mongo_url
@@ -49,25 +54,6 @@ class BarcodeDetector():
             json.dump(event, fp, ensure_ascii=False, indent=2)
         return True    
 
-
-    def push_data(self, data_list):
-        """
-
-        """
-        rets = []
-        for data in data_list:
-            event = copy.copy(data)
-            event["event_time"] = datetime.datetime.now()
-            ret.append(self.push(event))
-        return rets
-
-    
-    def query(self, data):
-        """
-        Implement
-
-        """
-
     
     def query_database(self, det_data):
         """
@@ -93,6 +79,8 @@ class BarcodeDetector():
 
         gradient = cv2.subtract(gradX, gradY)
 
+        return gray
+
 
     def detect_and_decode(self, frame):
         """
@@ -102,9 +90,8 @@ class BarcodeDetector():
         decoded_objects = pyzbar.decode(frame)
         decoded_list = []
         for obj in decoded_objects:
-            decoded_dict = {"type":obj.type, "data": obj.data, "polygon": obj.polygon, "rectangle":obj.rect}
+            decoded_dict = {"type":obj.type, "data": obj.data.decode('utf-8'), "polygon": obj.polygon, "rectangle":obj.rect, 'string_data':str(obj.data)}
             decoded_list.append(decoded_dict)
-            
         return decoded_list
 
 
@@ -160,7 +147,27 @@ class BarcodeDetector():
                         lineType)
 
         return canvas
- 
+
+
+    def handle_code(self, code): # TODO: Finish
+        """
+        Since this module detects different types of codes, parse them and send them to the 
+        appropriate methods.
+
+        This funciton calls the query funciton.
+
+        """
+        if code['type'] == 'QRCODE':
+            pass
+        elif code['type'] == 'Code128':
+            pass
+        elif code['type'] == 'Code93':
+            pass
+        elif code['type'] == 'Code39':
+            pass
+        elif code['type'] == 'Interleaved2of5':
+            pass
+    
 
     def load_camera(self):
         self._video_cap = cv2.VideoCapture(0)
@@ -200,8 +207,10 @@ class BarcodeDetector():
                         canvas = self.draw_detections_info(canvas, det_data)
                         sleep = [True, time.time()]
 
-                        # query_returns = self.push_data(det_data)
-                        # frame, canvas = self.draw_anwers(frame, canvas, query_returns)
+                        # TODO: Query the DB with the detected codes.
+                        for det in det_data:
+                            res = self.handle_code(det)
+                            
 
                 if (time.time() - sleep[1]) > self._sleep_detection:
                     sleep[0] = False
